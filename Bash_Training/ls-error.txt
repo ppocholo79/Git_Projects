@@ -1,0 +1,1 @@
+ls: cannot access /bin/bin: No such file or directory

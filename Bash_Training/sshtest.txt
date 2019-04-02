@@ -1,0 +1,162 @@
+Firefox_wallpaper.png
+wc
+
+Bash_Training:
+-
+dirlist-bin.txt
+dirlist-sbin.txt
+dirlist-usr-bin.txt
+dirlist-usr-sbin.txt
+file-A.zip
+foo
+foo1.txt
+fools.txt
+foo.txt
+foo.txt.gz
+lazy_dog.txt
+ls-error.txt
+ls-etc.zip
+ls-output2.txt
+ls-output.txt
+ls-txt
+myFile.txt
+p
+phonelist.txt
+playground
+playground2.tar
+playground3.tar
+playground4.tgz
+playground5.zip
+playground.tar
+sshtest.txt
+Test.txt
+
+bin:
+FoxitReader
+
+Descargas:
+A-Z Index of the Bash command line for Linux.png
+CLI Commands.jpg
+jdk-8u151-linux-x64.rpm
+jdk-8u152-linux-x64.rpm
+Linux Commands Cheat Sheet.jpeg
+Linux Commands Cheat Sheet.png
+Linux file system hierarchy.png
+northwind-pictures.zip
+Oracle-Northwind.zip
+Scripts for creating Oracle Northwind database_files
+Scripts for creating Oracle Northwind database.html
+SQLQFMM3.zip
+SQL_scripts
+(vogella) Lars Vogel, Wayne Beaton-Eclipse IDE-vogella.com (2013).pdf
+
+Desktop:
+eclipse
+Libros
+Linux Filesystem Standard
+The Linux Command Line_ A Complete Introduction
+
+Documents:
+
+Downloads:
+
+eclipse:
+artifacts.xml
+configuration
+dropins
+eclipse
+eclipse.ini
+features
+icon.xpm
+p2
+plugins
+readme
+
+Escritorio:
+Eclipse
+Enlace hacia Oreilly.Head.First.Java.2nd.Edition.Dec.2007.pdf
+Enlace hacia (vogella) Lars Vogel, Wayne Beaton-Eclipse IDE-vogella.com (2013)(1).pdf
+Passwords
+
+Java_Training:
+BeerSong.class
+BeerSong.java
+Chapter 6
+Dog.class
+Dog.java
+DooBee.class
+DooBee.java
+DrumKit.class
+DrumKit.java
+DrumKitTestDrive.class
+DrumKitTestDrive.java
+GameLauncher.class
+GameLauncher.java
+GoodDog.class
+GoodDog.java
+GoodDogTestDrive.class
+GoodDogTestDrive.java
+GuessGame.class
+GuessGame.java
+HeadFirstJava_Chap06
+IfTest2.class
+IfTest2.java
+IfTest.class
+IfTest.java
+Loopy.class
+Loopy.java
+MyFirstApp.class
+MyFirstApp.java
+PhraseOMatic.class
+PhraseOMatic.java
+Player.class
+Player.java
+PoorDog.class
+PoorDog.java
+PoorDogTestDrive.class
+PoorDogTestDrive.java
+Puzzle4b.class
+Puzzle4.class
+Puzzle4.java
+SimpleDotComGame
+TestArrays.class
+TestArrays.java
+Triangle.class
+Triangle.java
+
+Libros:
+Brett D. McLaughlin, Gary Pollice, Dave West-Head First Object-Oriented Analysis and Design -O'Reilly Media (2006).pdf
+fhs-3.0.pdf
+Head First - Design Patterns.pdf
+Head First SQL your brain on SQL a Learners Guide.pdf
+Linux-file-system-hierarchy-Linux-file-structure-optimized.jpg
+Michael Morrison-Head First JavaScript-O'Reilly Media (2008).pdf
+Oreilly.Head.First.Java.2nd.Edition.Dec.2007.pdf
+(vogella) Lars Vogel, Wayne Beaton-Eclipse IDE-vogella.com (2013)(1).pdf
+William E. Shotts, Jr.-The Linux Command Line_ A Complete Introduction-No Starch Press (2012).pdf
+
+Music:
+
+notepadqq:
+build-appimage.sh
+configure
+CONTRIBUTING.md
+COPYING
+doc
+images
+notepadqq.pro
+README.md
+src
+support_files
+
+opt:
+foxitsoftware
+
+Pictures:
+Wallpapers
+
+Public:
+
+Templates:
+
+Videos:
